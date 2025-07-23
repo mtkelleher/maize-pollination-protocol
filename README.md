@@ -36,7 +36,7 @@ The female flowers grow lower on the plant and develop into ears. These arise fr
 Shoot bagging can be done at any time during the day, but it is the first step in controlled pollination. It can be done before pollinating while waiting for moisture to dry from the bags or after the morning's pollinations are complete. Shoot bags, made of waxy paper, are placed over shoots on plants that will receive pollen to control which pollen contacts the silks. The longer flap, or tongue, should be positioned against the stalk. To secure the bag and prevent it from being dislodged by wind, pull it downward firmly. We typically focus on the top three uncontaminated ears per plant. If silks have already emerged from a shoot, it is considered contaminated and should not be bagged.
 
 
-<img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3250.jpg" alt="Figure 2A" width="250"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3281.jpg" alt="Figure 2B" width="250"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3338.jpg" alt="Figure 2C" width="250"/>
+<img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3280.jpg" alt="Figure 2A" width="250"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3281.jpg" alt="Figure 2B" width="250"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3338.jpg" alt="Figure 2C" width="250"/>
 
 **Figures 2 A–C:**
 - (A) Shoots before bagging.
