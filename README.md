@@ -98,7 +98,7 @@ Next, find a pollen donor plant that is shedding pollen and cover the tassel wit
 <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3499.jpg" alt="Figure 6" width="250"/>
 
 **Figure 6:**
-- Labeled tassel bag stapled around the tassel
+- Labeled tassel bag stapled around the tassel.
 
 ---
 
