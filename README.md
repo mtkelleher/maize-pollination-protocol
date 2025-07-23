@@ -22,7 +22,7 @@ The male flowers are located in the tassel at the top of the plant. Tassels prod
 The female flowers grow lower on the plant and develop into ears. These arise from the leaf axils, which are the upper areas between the leaf sheath and stalk. Each ear contains many ovules, and each ovule produces a silk that serves as both the stigma and style. The silk captures pollen and transports it down to the ovule for fertilization. One successfully pollinated silk results in one kernel on the cob.
 
 
-<img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3339.jpg" alt="Figure 1A" width="280"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3553.jpg" alt="Figure 1B" width="280"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3560.jpg" alt="Figure 1C" width="280"/>
+<img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3339.jpg" alt="Figure 1A" width="250"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3553.jpg" alt="Figure 1B" width="250"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3560.jpg" alt="Figure 1C" width="250"/>
 
 **Figures 1 A–C:**
 - (A) Ear before pollination with silks emerged and attached to the ovule.
@@ -36,7 +36,7 @@ The female flowers grow lower on the plant and develop into ears. These arise fr
 Shoot bagging can be done at any time during the day, but it is the first step in controlled pollination. It can be done before pollinating while waiting for moisture to dry from the bags or after the morning's pollinations are complete. Shoot bags, made of waxy paper, are placed over shoots on plants that will receive pollen to control which pollen contacts the silks. The longer flap, or tongue, should be positioned against the stalk. To secure the bag and prevent it from being dislodged by wind, pull it downward firmly. We typically focus on the top three uncontaminated ears per plant. If silks have already emerged from a shoot, it is considered contaminated and should not be bagged.
 
 
-<img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3280.jpg" alt="Figure 2A" width="280"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3281.jpg" alt="Figure 2B" width="280"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3338.jpg" alt="Figure 2C" width="280"/>
+<img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3250.jpg" alt="Figure 2A" width="250"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3281.jpg" alt="Figure 2B" width="250"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3338.jpg" alt="Figure 2C" width="250"/>
 
 **Figures 2 A–C:**
 - (A) Shoots before bagging.
@@ -57,7 +57,7 @@ To collect pollen, bend the plant so that the tassel bag’s opening is horizont
 You may lean the plant receiving the pollen to avoid accidental contamination by stray pollen. Remove the shoot bag from the ear and pour the pollen directly onto the exposed silks. You can channel the pollen using a crease or corner of the tassel bag for better control. It should be noted that the pollen, which is dust-like, should be poured onto the silks, not the anthers alone. If using the pollen on multiple plants, one bag of pollen can typically be used for two to three plants.
 
 
-<img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3507.jpg" alt="Figure 3A" width="280"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3510.jpg" alt="Figure 3B" width="280"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3478.jpg" alt="Figure 3C" width="280"/>
+<img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3507.jpg" alt="Figure 3A" width="250"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3510.jpg" alt="Figure 3B" width="250"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3478.jpg" alt="Figure 3C" width="250"/>
 
 **Figures 3 A–C:**
 - (A) Ear before pollination with silks emerged.
@@ -67,7 +67,7 @@ You may lean the plant receiving the pollen to avoid accidental contamination by
 After pollination, cover the ear with a labeled tassel bag, wrap it around the stalk, and secure it with staples. Pre-labeling the tassel bag is ideal, but if more time is needed, the shoot bag can be placed back over the ear. However, this may not be ideal if the shoot bag is very wet. You may reuse the tassel bag with pollen to cover an ear once pollinated. But when pollinating multiple plants from one bag of pollen, you will need to cover some ears with new tassel bags. These bags should be labeled with the female source (which can be row, plot, or genotype depending on your nursery's arrangement) x male source (e.g. 7 x 10). For a self, write the female source and draw a circle with an "X" through it (e.g. 7 ⓧ). Always include the date and source(s) on the bag.
 
 
-<img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3490.jpg" alt="Figure 4A" width="280"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3488.jpg" alt="Figure 4B" width="280"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3486.jpg" alt="Figure 4C" width="280"/>
+<img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3490.jpg" alt="Figure 4A" width="250"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3488.jpg" alt="Figure 4B" width="250"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3486.jpg" alt="Figure 4C" width="250"/>
 
 **Figures 4 A–C:**
 - (A) Tassel bag bent over before shaking and removing pollen.
@@ -85,7 +85,7 @@ Remove the shoot bag of the recipient. Before cutting, feel for the location of 
 If the shoot is trimmed and silks are present, replace the shoot bag immediately and fold the top edge outward and away from the stalk. Mark the fold with an "X" if it was set up on an even date and an "O" if on an odd date. This helps pollinators easily identify set up ears. It may also be helpful to keep track of how many plants are set up in each plot and communicate that to the next day's team.
 
 
-<img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3342.jpg" alt="Figure 5A" width="280"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3500.jpg" alt="Figure 5B" width="280"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3504.jpg" alt="Figure 5C" width="280"/>
+<img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3342.jpg" alt="Figure 5A" width="250"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3500.jpg" alt="Figure 5B" width="250"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3504.jpg" alt="Figure 5C" width="250"/>
 
 **Figures 5 A–C:**
 - (A) Shoot cut back properly with silks exposed.
@@ -95,7 +95,7 @@ If the shoot is trimmed and silks are present, replace the shoot bag immediately
 Next, cover the tassel of the pollen donor plant with a labeled tassel bag. Include the date and, if the male parent is not assumed, the male parent source. Any pollen present at the time of bagging will not be viable the next day, and only newly shed pollen will be viable when pollinating. Fold the lower part of the bag in half along the stalk and fold up the corner to form a triangle against the stalk. Use one staple to hold in place.
 
 
-<img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3499.jpg" alt="Figure 6" width="280"/>
+<img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3499.jpg" alt="Figure 6" width="250"/>
 
 **Figure 6:**
 - Labeled tassel bag stapled around the tassel
