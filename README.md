@@ -15,7 +15,7 @@ A typical day of maize pollination and preparation involves three main tasks: sh
 
 ## Background: Maize Flower Biology
 
-Maize (*Zea mays*) is a monoecious plant, meaning that each plant contains both male and female reproductive structures. However, these organs are in imperfect, or unisexual, flowers. Male and female flowers are separate, but both are found on the same plant.
+Maize (*Zea mays*) is a monoecious plant, meaning that each plant contains both male and female reproductive structures. However, these organs are in imperfect, or unisexual, flowers. Male and female inflorescences are separate, but both are found on the same plant.
 
 The male flowers are located in the tassel at the top of the plant. Tassels produce pollen, which is released from structures called anthers. Each tassel consists of many small units called spikelets, each containing two florets enclosed by glumes. Inside the florets are three anthers, attached to fine filaments. As the florets mature, the anthers emerge and dangle from the tassel, releasing pollen. This can be seen as a yellowish dust when the tassel is shaken.
 
