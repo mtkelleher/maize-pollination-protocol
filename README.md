@@ -25,7 +25,7 @@ The female flowers grow lower on the plant and develop into ears. These arise fr
 <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3339.jpg" alt="Figure 1A" width="250"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3553.jpg" alt="Figure 1B" width="250"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3560.jpg" alt="Figure 1C" width="250"/>
 
 **Figures 1 A–C:**
-- (A) Ear before pollination with silks emerged and attached to the ovule.
+- (A) Ear before pollination with silks emerged and attached to the ovules.
 - (B) Tassel shedding pollen.
 - (C) Tassel no longer shedding pollen, with spent anthers.
 
