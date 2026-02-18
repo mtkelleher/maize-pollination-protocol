@@ -54,7 +54,7 @@ Pollen generally remains viable for about 20 minutes after leaving the anther. I
 
 To collect pollen, bend the plant so that the tassel bag’s opening is horizontal or slightly upward to prevent pollen from spilling out. Tap and shake the bag gently to release the pollen, remove the staple and the bag, then immediately walk it to the receiving plant.  
 
-You may lean the plant receiving the pollen to avoid accidental contamination by stray pollen. Remove the shoot bag from the ear and pour the pollen directly onto the exposed silks. You can channel the pollen using a crease or corner of the tassel bag for better control. It should be noted that the pollen, which is dust-like, should be poured onto the silks, not the anthers alone. If using the pollen on multiple plants, one bag of pollen can typically be used for two to three plants.
+You may lean the plant receiving the pollen to avoid accidental contamination by stray pollen. Remove the shoot bag from the ear and pour the pollen directly onto the exposed silks. You can channel the pollen using a crease or corner of the tassel bag for better control. It should be noted that the pollen, which is dust-like, should be poured onto the silks, not the anthers alone. If using the pollen on multiple plants, one bag of pollen from a modern inbred line can typically be used for two to three plants, but many factors can affect the amount of pollen shed.
 
 
 <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3507.jpg" alt="Figure 3A" width="250"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3510.jpg" alt="Figure 3B" width="250"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3478.jpg" alt="Figure 3C" width="250"/>
@@ -92,7 +92,7 @@ If the shoot is trimmed and silks are present, replace the shoot bag immediately
 - (B) Shoot cut back with no silks visible. In this case it was cut prematurely.
 - (C) Shoot cut too far, slightly into the cob. It can still be pollinated, but not ideal.
 
-Next, find a pollen donor plant that is shedding pollen and cover the tassel with a labeled tassel bag. Include the date and, if the male parent is not assumed, the male parent source. Any pollen present at the time of bagging will not be viable the next day, and only newly shed pollen will be viable when pollinating. Fold the lower part of the bag in half along the stalk and fold up the corner to form a triangle against the stalk. Use one staple to hold in place.
+Next, identify a pollen donor plant that is actively shedding pollen. Label a tassel bag with the date and, if the male parent is not assumed, the male parent source. Any pollen present at the time of bagging will not be viable the following day, and only newly shed pollen will be viable at the time of pollination. Place the labeled tassel bag over the tassel. The opening of the bag should extend at least to the flag leaf. Alternatively, you may remove the flag leaf to secure the bag lower on the stalk, which can help prevent the tassel from bending under the weight of the bag, especially if moisture accumulates. It is best to keep the bags upright. Fold the lower part of the bag in half along the stalk and fold up the corner to form a triangle against the stalk. Use one staple to hold in place.
 
 
 <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3499.jpg" alt="Figure 6" width="250"/>
