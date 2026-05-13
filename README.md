@@ -15,11 +15,14 @@ A typical day of maize pollination and preparation involves three main tasks: sh
 
 ## Background: Maize Flower Biology
 
-Maize (*Zea mays*) is a monoecious plant, meaning that each plant contains both male and female reproductive structures. However, these organs are in imperfect, or unisexual, flowers. Male and female inflorescences are separate, but both are found on the same plant.
+Maize (*Zea mays*) is a monoecious flowering plant, meaning it produces separate male and female flowers on the same plant. These flowers are imperfect (unisexual) and are arranged in separate inflorescences, or groups of flowers.
 
-The male flowers are located in the tassel at the top of the plant. Tassels produce pollen, which is released from structures called anthers. Each tassel consists of many small units called spikelets, each containing two florets enclosed by glumes. Inside each floret are three anthers, attached to fine filaments. As the florets mature, the anthers emerge and dangle from the tassel, releasing pollen. This can be seen as a yellowish dust when the tassel is shaken.
+The male inflorescence is the tassel at the top of the plant. Tassels produce pollen, which is released from anthers. Each tassel contains many small units called spikelets, and each spikelet has two florets surrounded by glumes. As the florets mature, the anthers emerge and hang from the tassel, releasing pollen that appears as a yellow dust.
 
-The female flowers grow lower on the plant and develop into ears. These arise from the leaf axils, which are the upper areas between the leaf sheath and stalk. Each ear contains many ovules, and each ovule produces a silk that serves as both the stigma and style. The silk captures pollen and transports it down to the ovule for fertilization. One successfully pollinated silk results in one kernel on the cob.
+The female inflorescences develop lower on the plant and form the ears. Each ear arises from a leaf axil (the angle between the leaf sheath and the stalk) and contains many ovules. Each ovule produces a silk, which functions as both the stigma and style. The silk captures pollen and carries it to the ovule for fertilization. One successfully pollinated silk develops into one kernel.
+
+When you shuck sweet corn and remove the husk, the stringy strands you see are the silks. Each silk represents a potential kernel.
+
 
 
 <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3339.jpg" alt="Figure 1A" width="250"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3553.jpg" alt="Figure 1B" width="250"/> <img src="https://github.com/mtkelleher/maize-pollination-protocol/blob/main/images/IMG_3560.jpg" alt="Figure 1C" width="250"/>
