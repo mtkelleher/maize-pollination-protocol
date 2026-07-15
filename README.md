@@ -44,7 +44,7 @@ Shoot bagging can be done at any time during the day, but it is the first step i
 **Figures 2 A–C:**
 - (A) Shoots before bagging.
 - (B) Shoots after bagging.
-- (C) Shoots with exposed silks, which is considered contaminated.
+- (C) Shoot with exposed silks, which is considered contaminated.
 
 ---
 
