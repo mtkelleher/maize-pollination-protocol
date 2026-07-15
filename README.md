@@ -74,7 +74,7 @@ After pollination, cover the ear with a labeled tassel bag, wrap it around the s
 
 **Figures 4 A–C:**
 - (A) Tassel bag bent over before shaking and removing pollen.
-- (B) Tassel bag stapled over the ear.
+- (B) Tassel bag stapled over the pollinated ear.
 - (C) Labeled tassel bag on for a cross-pollinated ear formatted as (female plot x male plot). If a tassel bag with a calendar is used, a mark is drawn through the date. Otherwise, the format is Month/Day. In the case where each cross is recieving pollen from the same parent line, you can use use the format plot x.
 
 ---
